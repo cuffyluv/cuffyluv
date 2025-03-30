@@ -3,7 +3,7 @@
 💬Hello,  
 I'm currently majoring in Computer Science.  
 
-I enjoy sharing what I learn on my blog,  
+I enjoy sharing what I learn on [my blog](https://cuffyluv.tistory.com/),  
 and I really love playing pixel-art visual novels.([my fave.](https://store.steampowered.com/app/447530/VA11_HallA_Cyberpunk_Bartender_Action/))  
 
 To everyone who visited here  
