@@ -1,4 +1,13 @@
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cuffyluv)](https://solved.ac/cuffyluv/)
+<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cuffyluv)](https://solved.ac/cuffyluv/) -->
+
+💬Hello,  
+I'm currently majoring in Computer Science.  
+
+I enjoy sharing what I learn on my blog,  
+and I really love playing pixel-art visual novels.([my fave.](https://store.steampowered.com/app/447530/VA11_HallA_Cyberpunk_Bartender_Action/))  
+
+To everyone who visited here  
+I hope you had a good day.  
 
 
 
