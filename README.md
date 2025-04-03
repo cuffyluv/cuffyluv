@@ -1,14 +1,13 @@
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cuffyluv)](https://solved.ac/cuffyluv/) -->
 
 💬Hello,  
-I'm currently majoring in Computer Science.  
+I'm majoring in Computer Science and currently interested in AI.
 
 I enjoy sharing what I learn on [my blog](https://cuffyluv.tistory.com/),  
-and I really love playing pixel-art visual novels.([my fave.](https://store.steampowered.com/app/447530/VA11_HallA_Cyberpunk_Bartender_Action/))  
+and I really love playing pixel-art visual novels.([VA-11 HALL-A; my favorite ever...](https://store.steampowered.com/app/447530/VA11_HallA_Cyberpunk_Bartender_Action/))  
 
-To everyone who visited here  
-I hope you had a good day.  
-
+To everyone who visited here,  
+I hope you had a good day.
 
 
 <!--
