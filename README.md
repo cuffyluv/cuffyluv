@@ -1,5 +1,5 @@
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cuffyluv)](https://solved.ac/cuffyluv/) -->
-<img src="https://github.com/user-attachments/assets/cc580beb-3e89-43bd-9ea0-6a5ff366a85e" width="60%" height="60%"/>
+<img src="https://github.com/user-attachments/assets/cc580beb-3e89-43bd-9ea0-6a5ff366a85e" width="100%" height="100%"/>
   
 💬Hello,  
 I'm majoring in Computer Science and currently interested in AI.
