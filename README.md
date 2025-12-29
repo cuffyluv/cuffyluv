@@ -1,8 +1,10 @@
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cuffyluv)](https://solved.ac/cuffyluv/) -->
 <img src="https://github.com/user-attachments/assets/cc580beb-3e89-43bd-9ea0-6a5ff366a85e" width="100%" height="100%"/>
   
-💬Hello,  
-I'm majoring in Computer Science and currently interested in Robotics and AI.
+💬 Hello,
+
+🎓 I'm majoring in Computer Science and minoring in Automotive Engineering. 💻🚗  
+📚 I'm currently studying Robotics and AI. 🤖🦾
 
 I enjoy sharing what I learn on [my blog](https://cuffyluv.tistory.com/),  
 and I really love playing pixel-art visual novels.([VA-11 HALL-A; my favorite ever...](https://store.steampowered.com/app/447530/VA11_HallA_Cyberpunk_Bartender_Action/))  
