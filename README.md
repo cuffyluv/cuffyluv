@@ -12,6 +12,7 @@ and I really love playing pixel-art visual novels.([VA-11 HALL-A; my favorite ev
 To everyone who visited here,  
 I hope you had a good day.
 
+Currently participating in [Naver Boostcamp AI Tech 8th CV Track(25.09.01 - 26.02.11)](https://boostcamp.connect.or.kr/program_ai.html)
 
 <!--
 **yeonu0420/yeonu0420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,9 +30,9 @@ Here are some ideas to get you started:
 -->
 
 ---
-
+<!--
 ![cuffyluv's github stats](https://github-readme-stats.vercel.app/api?username=cuffyluv)
-
+-->
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cuffyluv&layout=compact)
 -->
