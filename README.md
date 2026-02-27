@@ -12,7 +12,8 @@ and I really love playing pixel-art visual novels.([VA-11 HALL-A; my favorite ev
 To everyone who visited here,  
 I hope you had a good day.
 
-Currently participating in [Naver Boostcamp AI Tech 8th CV Track(25.09.01 - 26.02.11)](https://boostcamp.connect.or.kr/program_ai.html)
+Completed [Naver Boostcamp AI Tech 8th CV Track(2025.09.01 - 2026.02.11)](https://boostcamp.connect.or.kr/program_ai.html)
+and have returned to university to continue my studies.
 
 <!--
 **yeonu0420/yeonu0420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
