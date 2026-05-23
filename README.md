@@ -15,6 +15,7 @@ I hope you have a good day.
 Completed [Naver Boostcamp AI Tech 8th CV Track(2025.09.01 - 2026.02.11)](https://boostcamp.connect.or.kr/program_ai.html)  
 and have returned to university to continue my studies.
 
+pfp: Satone from the game "Chill with You : Lo-Fi Story"
 <!--
 **yeonu0420/yeonu0420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
