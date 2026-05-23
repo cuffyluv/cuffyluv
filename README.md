@@ -3,16 +3,16 @@
   
 💬 Hello,
 
-🎓 I'm majoring in Computer Science and minoring in Automotive Engineering. 💻🚗  
+🎓 I'm majoring in Computer Science and minoring in Future Car. 💻🚗  
 📚 I'm currently studying Robotics and AI. 🤖🦾
 
 I enjoy sharing what I learn on [my blog](https://cuffyluv.tistory.com/),  
 and I really love playing pixel-art visual novels.([VA-11 HALL-A; my favorite ever...](https://store.steampowered.com/app/447530/VA11_HallA_Cyberpunk_Bartender_Action/))  
 
 To everyone who visited here,  
-I hope you had a good day.
+I hope you have a good day.
 
-Completed [Naver Boostcamp AI Tech 8th CV Track(2025.09.01 - 2026.02.11)](https://boostcamp.connect.or.kr/program_ai.html)
+Completed [Naver Boostcamp AI Tech 8th CV Track(2025.09.01 - 2026.02.11)](https://boostcamp.connect.or.kr/program_ai.html)  
 and have returned to university to continue my studies.
 
 <!--
